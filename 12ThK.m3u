@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
+#EXTM3U x-tvg-url="http://192.168.1.86:5001/epg.xml.gz"
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.86:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.86:5001/live/144.m3u8
 #EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://192.168.1.86:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
