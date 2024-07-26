@@ -1,10 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.68:5001/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5heQZym48o0Ai1lLkiggk3alYT-uWNBi0w&usqp=CAU" group-title="Radio",Non Stop Hindi Radio
-http://sc-bb.1.fm:8017/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5heQZym48o0Ai1lLkiggk3alYT-uWNBi0w&usqp=CAU" group-title="Radio",Radio BollyFM
-http://stream.radiobollyfm.in:8201/hd?t=1526570335
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5heQZym48o0Ai1lLkiggk3alYT-uWNBi0w&usqp=CAU" group-title="Radio",Radio Mirchi
-http://peridot.streamguys.com:7150/Mirchi
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.68:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.68:5001/live/144.m3u8
 #EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://192.168.1.68:5001/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
