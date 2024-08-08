@@ -5,8 +5,8 @@ http://192.168.1.68:8080/JioTV/portal.php?id=160
 http://192.168.1.68:8080/JioTV/portal.php?id=173
 #EXTINF:-1 tvg-id="ts551" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Entertainment",STAR Utsav
 http://192.168.1.68:8080/JioTV/portal.php?id=240
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
-http://192.168.1.68:8080/JioTV/portal.php?id=8489
+#EXTINF:-1 tvg-id="ts8489" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="STAR",Star Gold
+http://192.168.1.68:8080/JioTv/portal.php?id=8489
 #EXTINF:-1 tvg-id="ts47861" tvg-name="Star Gold Romance" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="Movies",Star Gold Romance
 http://192.168.1.68:8080/JioTV/portal.php?id=47861
 #EXTINF:-1 tvg-id="ts247" tvg-name="Star Gold 2 " tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="Movies",Star Gold 2 
