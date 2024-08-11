@@ -63,11 +63,11 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:0 tvg-id="ts35" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv/Hotstar", Sony TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:0 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv", Sony Kal
+#EXTINF:0 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv/Hotstar", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ts34" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv", Sony AATH
+#EXTINF:0 tvg-id="ts34" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv/Hotstar", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:0 tvg-id="ts658" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLiv", Sony Marathi
+#EXTINF:0 tvg-id="ts658" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLiv/Hotstar", Sony Marathi
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
