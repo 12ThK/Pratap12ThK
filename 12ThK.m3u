@@ -34,7 +34,7 @@ https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
 
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.17:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.1.17:5350/live/144.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Sony Kal" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Kal
+#EXTINF:-1 tvg-id=154 tvg-name="Sony Kal" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://192.168.1.17:5350/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://192.168.1.17:5350/live/173.m3u8
