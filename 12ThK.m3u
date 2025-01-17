@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url="http://192.168.1.17:5350/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="ts63" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Jio$tar/$ony/Zee",Zee TV HD
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
-#EXTINF:-1 tvg-id="ts40" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Jio$tar/$ony/Zee",&tv HD
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
-#EXTINF:-1 tvg-id="ts523" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="Jio$tar/$ony/Zee",Zee Anmol
-https://live.drmlive-02.workers.dev/zee/zee-anmol.m3u8
-#EXTINF:-1 tvg-id="ts297" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png" group-title="Jio$tar/$ony/Zee",Big Magic
-https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
-#EXTINF:-1 tvg-id="ts503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Jio$tar/$ony/Zee",Zee Cinema HD
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#EXTINF:-1 tvg-id="ts267" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Jio$tar/$ony/Zee",&pictures HD
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1 tvg-id="ts1183" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Jio$tar/$ony/Zee",&Xplor HD
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
-#EXTINF:-1 tvg-id="ts64" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="Jio$tar/$ony/Zee",Zee Anmol Cinema
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
-#EXTINF:-1 tvg-id="ts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2K6zphCP8I7Ru5AkkOEw5NennFaaVcZb6g&s" group-title="Jio$tar/$ony/Zee",Zee Anmol Cinema 2
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
-#EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Jio$tar/$ony/Zee",Zee Action
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
-#EXTINF:-1 tvg-id="ts175" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="Jio$tar/$ony/Zee",Zee Bollywood
-https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
-
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.1.17:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 https://live.drmlive-02.workers.dev/jc/144.m3u8
 #EXTINF:-1 tvg-id=154 tvg-name="Sony Kal" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Kal
