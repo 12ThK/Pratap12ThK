@@ -699,8 +699,8 @@ http://localhost:5350/live/858.m3u8
 http://localhost:5350/live/866.m3u8
 #EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://localhost:5350/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
 http://localhost:5350/live/871.m3u8
-#EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
-http://localhost:5350/live/872.m3u8
+#EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
+https://live.drmlive-02.workers.dev/sliv/yay.m3u8
 #EXTINF:-1 tvg-id=873 tvg-name="Sony Yay Tamil" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Sony Yay Tamil
 http://localhost:5350/live/873.m3u8
 #EXTINF:-1 tvg-id=874 tvg-name="Sony Yay Telugu" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sony Yay Telugu
