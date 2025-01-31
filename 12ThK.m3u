@@ -7,8 +7,8 @@ http://localhost:5350/live/144.m3u8
 http://localhost:5350/live/146.m3u8
 #EXTINF:-1 tvg-id=151 tvg-name="Movies Now HD" tvg-logo="http://localhost:5350/jtvimage/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Movies Now HD
 http://localhost:5350/live/151.m3u8
-#EXTINF:-1 tvg-id=ts460 tvg-name="Sony Bbc Earth HD" tvg-logo="http://localhost:5350/jtvimage/Sony_BBC_Earth_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Bbc Earth HD 
-https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
+#EXTINF:-1 tvg-id=154 tvg-name="Sony Kal" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id=155 tvg-name="Sony Ten 5 HD" tvg-logo="http://localhost:5350/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
 http://localhost:5350/live/155.m3u8
 #EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://localhost:5350/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
@@ -72,11 +72,11 @@ http://localhost:5350/live/286.m3u8
 #EXTINF:-1 tvg-id=288 tvg-name="Sanskar" tvg-logo="http://localhost:5350/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://localhost:5350/live/288.m3u8
 #EXTINF:-1 tvg-id=ts132 tvg-name="Sony Max SD" tvg-logo="http://localhost:5350/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
-https://live.drmlive-02.workers.dev/sliv/max.m3u8
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id=290 tvg-name="sonic Tamil" tvg-logo="http://localhost:5350/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", sonic Tamil
 http://localhost:5350/live/290.m3u8
 #EXTINF:-1 tvg-id=ts15 tvg-name="SET HD" tvg-logo="http://localhost:5350/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-https://live.drmlive-02.workers.dev/sliv/sony.m3u8
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://localhost:5350/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
 http://localhost:5350/live/383.m3u8
 #EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://localhost:5350/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
@@ -134,11 +134,11 @@ http://localhost:5350/live/465.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://localhost:5350/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
 http://localhost:5350/live/466.m3u8
 #EXTINF:-1 tvg-id=ts48 tvg-name="Sony SAB HD" tvg-logo="http://localhost:5350/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-https://live.drmlive-02.workers.dev/sliv/sab.m3u8
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id=ts554 tvg-name="Sony Pal" tvg-logo="http://localhost:5350/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-https://live.drmlive-02.workers.dev/sliv/pal.m3u8
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id=ts80 tvg-name="Sony Max HD" tvg-logo="http://localhost:5350/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id=477 tvg-name="MN+ HD" tvg-logo="http://localhost:5350/jtvimage/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN+ HD
 http://localhost:5350/live/477.m3u8
 #EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://localhost:5350/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -148,7 +148,7 @@ http://localhost:5350/live/481.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://localhost:5350/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://localhost:5350/live/482.m3u8
 #EXTINF:-1 tvg-id=ts120 tvg-name="Sony MAX2" tvg-logo="http://localhost:5350/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
-https://live.drmlive-02.workers.dev/sliv/max2.m3u8
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id=486 tvg-name="Bhojpuri Cinema" tvg-logo="http://localhost:5350/jtvimage/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
 http://localhost:5350/live/486.m3u8
 #EXTINF:-1 tvg-id=489 tvg-name="CNBC Tv 18" tvg-logo="http://localhost:5350/jtvimage/CNBC_Tv_18.png" tvg-language="English" tvg-type="Business" group-title="Business", CNBC Tv 18
@@ -206,7 +206,7 @@ http://localhost:5350/live/522.m3u8
 #EXTINF:-1 tvg-id=523 tvg-name="Ten 2" tvg-logo="http://localhost:5350/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Ten 2
 http://localhost:5350/live/523.m3u8
 #EXTINF:-1 tvg-id=ts171 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://localhost:5350/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
-https://live.drmlive-02.workers.dev/sliv/ten3.m3u8
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id=525 tvg-name="Sony Ten 5" tvg-logo="http://localhost:5350/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5
 http://localhost:5350/live/525.m3u8
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://localhost:5350/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
@@ -700,7 +700,7 @@ http://localhost:5350/live/866.m3u8
 #EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://localhost:5350/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
 http://localhost:5350/live/871.m3u8
 #EXTINF:-1 tvg-id=ts45 tvg-name="Sony Yay Hindi" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
-https://live.drmlive-02.workers.dev/sliv/yay.m3u8
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id=873 tvg-name="Sony Yay Tamil" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Sony Yay Tamil
 http://localhost:5350/live/873.m3u8
 #EXTINF:-1 tvg-id=874 tvg-name="Sony Yay Telugu" tvg-logo="http://localhost:5350/jtvimage/Sony_Yay_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sony Yay Telugu
@@ -728,7 +728,7 @@ http://localhost:5350/live/887.m3u8
 #EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://localhost:5350/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
 http://localhost:5350/live/891.m3u8
 #EXTINF:-1 tvg-id=ts464 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://localhost:5350/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
-https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id=894 tvg-name="KTV HD" tvg-logo="http://localhost:5350/jtvimage/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD
 http://localhost:5350/live/894.m3u8
 #EXTINF:-1 tvg-id=895 tvg-name="Sun Music HD" tvg-logo="http://localhost:5350/jtvimage/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
@@ -1128,11 +1128,11 @@ http://localhost:5350/live/1378.m3u8
 #EXTINF:-1 tvg-id=1388 tvg-name="Goodness" tvg-logo="http://localhost:5350/jtvimage/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Devotional", Goodness
 http://localhost:5350/live/1388.m3u8
 #EXTINF:-1 tvg-id=ts56 tvg-name="Sony Wah" tvg-logo="http://localhost:5350/jtvimage/Sony_Wah.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
-https://live.drmlive-02.workers.dev/sliv/wah.m3u8
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id=1394 tvg-name="Jai Maharashtra" tvg-logo="http://localhost:5350/jtvimage/Jai_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="News", Jai Maharashtra
 http://localhost:5350/live/1394.m3u8
-#EXTINF:-1 tvg-id= tvg-name="Sony Kal" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=ts460 tvg-name="Sony Bbc Earth HD" tvg-logo="http://localhost:5350/jtvimage/Sony_BBC_Earth_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Bbc Earth HD 
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id=1400 tvg-name="MTV Beats SD" tvg-logo="http://localhost:5350/jtvimage/MTV_Beats_SD.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV Beats SD
 http://localhost:5350/live/1400.m3u8
 #EXTINF:-1 tvg-id=1401 tvg-name="Romedy Now" tvg-logo="http://localhost:5350/jtvimage/Romedy_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Romedy Now
