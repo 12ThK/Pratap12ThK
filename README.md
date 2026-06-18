@@ -6,6 +6,6 @@ Everything Free & Paid | Don't Spam Blocked
 
 Everything Free & Paid | Step By Step Tutorial
 
-My YouTube Channel & Telegram Channel Username 
+My YouTube & Telegram
 
-Official Copyright User @Pk_12ThK & @Pk_12TgK
+@Pk_12ThK & @Pk_12TgK
